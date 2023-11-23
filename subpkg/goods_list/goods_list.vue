@@ -1,6 +1,6 @@
 <template>
 	<view>
-		catedd搜索是11
+		Good-list
 	</view>
 </template>
 
